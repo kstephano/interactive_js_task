@@ -1,0 +1,9 @@
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.navbar ul a {
+    padding: 5px;
+    background-color: aqua;
+}
